@@ -2,8 +2,10 @@
 
 using namespace std;
 #include <iostream>
+#include "bibliotecaLuiPitic.h"
 
 int main()
 {
-    cout << "KKO!\n";
+    Afis();
+    Afis(5);
 }

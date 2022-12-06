@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bibliotecaLuiPitic.cpp" />
     <ClCompile Include="franzela.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bibliotecaLuiPitic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
