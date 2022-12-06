@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Franzela!\n";
+    cout << "KKO!\n";
 }
