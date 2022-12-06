@@ -4,7 +4,7 @@ using namespace std;
 
 void Afis()
 {
-	cout << "pitic";
+	cout << "franzela ";
 }
 
 void Afis(int n)
@@ -13,4 +13,9 @@ void Afis(int n)
 		cout << "pitic ";
 		n--;
 	}
+}
+
+void Afis2()
+{
+	cout << "KKO";
 }

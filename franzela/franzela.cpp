@@ -8,4 +8,5 @@ int main()
 {
     Afis();
     Afis(5);
+    Afis2(); 
 }
